@@ -1,6 +1,6 @@
 Flask
 gunicorn
-jobli
+joblib
 scikit-learn
 pandas
 model_train
